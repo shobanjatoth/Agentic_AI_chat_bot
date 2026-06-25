@@ -292,7 +292,7 @@ import streamlit as st
 # CONFIG
 # =====================================================
 
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://agentic-ai-chat-bot-1.onrender.com"
 
 
 st.set_page_config(
